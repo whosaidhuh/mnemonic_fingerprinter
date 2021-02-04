@@ -1,5 +1,7 @@
 import phonetics as ph
 from fuzzywuzzy import fuzz
+
+
 def phrase2keys(phrase):
     """
     Converts text to an mp3 of mapped piano sequences
@@ -9,6 +11,13 @@ def phrase2keys(phrase):
     :TODO:
     """
 
+def trimp3():
+    """
+
+    :param:
+    :return:
+    :example:
+    :TODO:
+    """
 if __name__ == '__main__':
     pass
-
